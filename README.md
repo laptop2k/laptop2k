@@ -1,4 +1,4 @@
-### Hi there 👋
+### Qual foi 👋
 
 - 🔭 I’m currently working on my life xd;
 - 🌱 I’m currently learning math and programming;
