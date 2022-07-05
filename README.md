@@ -1,4 +1,5 @@
 ## "No matter where you go, everyone's connected"✨
+
 <div style="displa: inline_block"><br/>
     <img align="center" alt="lain" src="https://preview.redd.it/d24wyuord3l81.gif?width=661&auto=webp&s=b49b4ff722a6201fd9de0a65e522582e2f261b2c" width="200" height="200">
 </div>
